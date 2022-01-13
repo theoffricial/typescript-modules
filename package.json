@@ -1,0 +1,12 @@
+{
+  "name": "typescript-modules",
+  "version": "1.0.0",
+  "description": "This repository discuss how TypeScript is dealing with different JavaScript modules it faced like packages, And understanding configurations related to the modules it accepts, targets and the context of the destination executer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
